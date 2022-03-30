@@ -1,0 +1,11 @@
+#data-display
+{
+    text-transform: capitalize;
+    font-size: medium;
+}
+table, tr, td
+{
+    position: relative;
+    border: 1px solid;
+    max-width:100%;
+}
