@@ -78,3 +78,13 @@ body{
     border-width: 3px;
     border-radius: 5px;
 }
+div
+{
+    text-align: center;
+}
+.text
+{
+    position: relative;
+    top:50%;
+    transform: translate(0,-50%);
+}
